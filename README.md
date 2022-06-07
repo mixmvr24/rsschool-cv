@@ -1,1 +1,1 @@
-# https://github.com/mixmvr24/rsschool-cv/cv
+# https://github.com/mixmvr24/rsschool-cv/blob/gh-pages/cv.md
